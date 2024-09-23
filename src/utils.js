@@ -91,13 +91,13 @@ export const leads = [
     quote: "In a world where you can be anything, be kind."
   },{
     id: "8",
-    name: "Shreyansh",
+    name: "Shreyansh Dubey",
     imageUrl: "leads/shreyansh.jpeg",
     title: "PR & Sponsorships Lead",
     quote: "Be a voice, not an echo."
   },{
     id: "9",
-    name: "Debashish Bhuyan",
+    name: "Debasish Bhuyan",
     imageUrl: "leads/dbBhuyan.jpeg",
     title: "Management Co-Lead",
     quote: "I do diplomacy."

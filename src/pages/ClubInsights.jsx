@@ -164,7 +164,7 @@ export default function ClubInsights() {
             className="w-full flex justify-center sm:text-5xl text-4xl font-bold my-5 ml-2"
           >
             {startCount ? (
-              <CountUp start={0} end={300} duration={4} />
+              <CountUp start={0} end={900} duration={4} />
             ) : (
               <span>0</span>
             )}
@@ -175,7 +175,7 @@ export default function ClubInsights() {
               Active
             </h1>
             <h1 className="w-full flex justify-center font-light sm:text-3xl text-2xl">
-              Random One
+              Members
             </h1>
           </div>
         </div>
@@ -192,7 +192,7 @@ export default function ClubInsights() {
             className="w-full flex justify-center sm:text-5xl text-4xl font-bold my-5 ml-2"
           >
             {startCount ? (
-              <CountUp start={0} end={300} duration={4} />
+              <CountUp start={0} end={20} duration={4} />
             ) : (
               <span>0</span>
             )}
@@ -203,7 +203,7 @@ export default function ClubInsights() {
               Active
             </h1>
             <h1 className="w-full flex justify-center font-light sm:text-3xl text-2xl">
-              Random Two
+              Events
             </h1>
           </div>
         </div>
@@ -220,7 +220,7 @@ export default function ClubInsights() {
             className="w-full flex justify-center sm:text-5xl text-4xl font-bold my-5 ml-2"
           >
             {startCount ? (
-              <CountUp start={0} end={300} duration={4} />
+              <CountUp start={0} end={200} duration={4} />
             ) : (
               <span>0</span>
             )}
@@ -231,7 +231,7 @@ export default function ClubInsights() {
               Active
             </h1>
             <h1 className="w-full flex justify-center font-light sm:text-3xl text-2xl">
-              Random Three
+              Registrations
             </h1>
           </div>
         </div>
