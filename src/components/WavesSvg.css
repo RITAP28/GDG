@@ -1,0 +1,32 @@
+.wave {
+    animation: wave-animation 5s infinite ease-in-out;
+  }
+  
+  .wave1 {
+    animation-delay: 0s;
+  }
+  
+  .wave2 {
+    animation-delay: 0.5s;
+  }
+  
+  .wave3 {
+    animation-delay: 1s;
+  }
+  
+  .wave4 {
+    animation-delay: 1.5s;
+  }
+  
+  @keyframes wave-animation {
+    0% {
+      transform: translateX(0px);
+    }
+    50% {
+      transform: translateX(-100px);
+    }
+    100% {
+      transform: translateX(0px);
+    }
+  }
+  
