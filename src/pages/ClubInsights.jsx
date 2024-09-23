@@ -200,7 +200,7 @@ export default function ClubInsights() {
           </h1>
           <div className="">
             <h1 className="w-full flex justify-center font-light text-2xl sm:text-3xl">
-              Active
+              Total
             </h1>
             <h1 className="w-full flex justify-center font-light sm:text-3xl text-2xl">
               Events
@@ -228,7 +228,7 @@ export default function ClubInsights() {
           </h1>
           <div className="">
             <h1 className="w-full flex justify-center font-light text-2xl sm:text-3xl">
-              Active
+              Total
             </h1>
             <h1 className="w-full flex justify-center font-light sm:text-3xl text-2xl">
               Registrations
