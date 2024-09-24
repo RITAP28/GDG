@@ -68,7 +68,7 @@ export const leads = [
   },{
     id: "4",
     name: "Himadree Changmai",
-    imageUrl: "woman.jpeg",
+    imageUrl: "leads/Himadreee.jpeg",
     title: "Content Lead",
     quote: "The best way to predict the future is to create it."
   },{
