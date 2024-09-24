@@ -113,7 +113,7 @@ export const leads = [
     name: "Ritap Dey",
     imageUrl: "leads/me.jpeg",
     title: "Development Co-Lead",
-    quote: "Happiness is not by chance, but by choice."
+    quote: "We don't remember days, we remember moments."
   }
 ];
 
